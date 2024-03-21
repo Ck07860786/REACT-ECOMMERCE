@@ -4,9 +4,9 @@ This is an E-commerce application built by using react,tailwind CSS
 # Screenshots
 ## Mainscreen
 ![w1](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/f963ee49-fac2-433b-93da-625770e05a3c)
-
+## Registration Page
 ![w2](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/dd1e979f-130e-42f3-bafd-4da43339126a)
-
+## Login Page
 ![w3](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/c53fed26-34d7-4813-bccc-3864884e9eef)
 
 ![w4](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/52e8e48c-3cf1-4549-a2ee-d2430a90b781)
