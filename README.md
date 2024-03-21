@@ -1,6 +1,6 @@
 # E-commerce Application 🛒
 
-This is an E-commerce application built by using react,tailwind CSS
+This is an E-commerce application built by using react js and tailwind css
 # Screenshots
 ## Main Screen
 ![w1](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/f963ee49-fac2-433b-93da-625770e05a3c)
