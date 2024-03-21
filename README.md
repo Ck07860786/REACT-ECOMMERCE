@@ -1,8 +1,6 @@
 # E-commerce Application 🛒
 
 This is an E-commerce application built by using react,tailwind CSS
-<hr>
-
 # Screenshots
 
 Currently, two official plugins are available:
