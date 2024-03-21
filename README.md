@@ -2,6 +2,7 @@
 
 This is an E-commerce application built by using react,tailwind CSS
 # Screenshots
+## Mainscreen
 ![w1](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/f963ee49-fac2-433b-93da-625770e05a3c)
 
 ![w2](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/dd1e979f-130e-42f3-bafd-4da43339126a)
