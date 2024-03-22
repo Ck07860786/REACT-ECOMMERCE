@@ -15,6 +15,9 @@ This is an E-commerce application built by using react js and tailwind css
 ## Cart page
 ![w5](https://github.com/Ck07860786/REACT-ECOMMERCE/assets/115991360/01eaa59b-5396-451f-bbed-321e4db7fd0d)
 
+### Tech stak 🚀
+-react js
+
 
 Currently, two official plugins are available:
 
